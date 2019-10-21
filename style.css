@@ -1,0 +1,11 @@
+th{
+    font-size:1em;
+    padding:1em;
+}
+th[scope="col"]{
+    background-color:#ededed;
+}
+th[scope="row"]{
+    background-color: #696969;
+    color: #fff;
+}
